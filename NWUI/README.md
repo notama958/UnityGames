@@ -1,4 +1,4 @@
-SAKAMOTO NUMBER WIZARD GAME
+<h1>SAKAMOTO NUMBER WIZARD GAME</h1>
 <hr/> </br>
 Sakamoto wants to read your mind by guessing the number from 1 to 1000. Let's Play <br/>
 
