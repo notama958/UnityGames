@@ -6,3 +6,6 @@ Editor's confession:</br>
 <i><b>Sakamoto Desu Ga</b></i> is a japanese manga series written nd illustrated by Nami Sano.</br>
 Haven't you heard, there is a coolest man on earth and he is a high schooler >> SAKAMOTO</br>
 If you are his big fan come then enjoy my dummy game :) Tanssss and Cheers!!!
+<hr/>
+TO PLAY PLEASE DONWNLOAD THE WHOLE FOLDER AND CLICK ONM.exe FILE TO LAUNCH THE GAME
+
