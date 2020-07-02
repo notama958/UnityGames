@@ -1,8 +1,8 @@
 # UnityGames - GAMES LIST 
-<ul>
+<ol>
   <li> NWUI - Sakamoto Number Wizard </li>
   <li> Fruit BLock Breaker </li>
-</ul>
+</ol>
 <hr/>
 <strong>TO PLAY PLEASE DOWNLOAD THE WHOLE FOLDER AND CLICK ON .exe FILE TO LAUNCH THE GAME</strong>
 
