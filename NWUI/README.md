@@ -7,5 +7,5 @@ Editor's confession:</br>
 Haven't you heard, there is a coolest man on earth and he is a high schooler >> SAKAMOTO</br>
 If you are his big fan come then enjoy my dummy game :) Tanssss and Cheers!!!
 <hr/>
-TO PLAY PLEASE DONWNLOAD THE WHOLE FOLDER AND CLICK ONM.exe FILE TO LAUNCH THE GAME
+<strong>TO PLAY PLEASE DOWNLOAD THE WHOLE FOLDER AND CLICK ON .exe FILE TO LAUNCH THE GAME</strong>
 
