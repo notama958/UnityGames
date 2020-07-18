@@ -5,4 +5,5 @@
 </ol>
 <hr/>
 <strong>TO PLAY PLEASE DOWNLOAD THE WHOLE FOLDER AND CLICK ON .exe FILE TO LAUNCH THE GAME</strong>
+</br> <b>Or click on web link if available</b>
 
