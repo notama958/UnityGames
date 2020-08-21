@@ -1,7 +1,7 @@
 # UnityGames - GAMES LIST 
 <ol>
   <li> NWUI - Sakamoto Number Wizard </li>
-  <li> Fruit Block Breaker - <a href="https://sharemygame.com/@notaman958/block-breaker-bl">Link</a> </li>
+  <li> Fruit Block Breaker - <a href="https://sharemygame.com/@notaman958/chibi-block-breaker">Link</a> </li>
   <li> Space Shooter </li> 
 </ol>
 <hr/>
